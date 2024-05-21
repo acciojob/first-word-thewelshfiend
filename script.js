@@ -9,8 +9,6 @@ function firstWord(s) {
     return S;
 }
 
-console.log(firstWord(``));
-
 // Do not change the code below
 
 const s = prompt("Enter String:");
